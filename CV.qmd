@@ -8,8 +8,8 @@ format:
   #style: styles/CV_Style.css
 theme: styles/CV_standard.scss
   
-#bibliography: bibliography/Publications_reports_presentations.bib
-#biblio-style: styles/apaa-cv.csl
+bibliography: bibliography/publications.bib
+biblio-style: styles/apaa-cv.csl
 ---
 
 ```{r}
