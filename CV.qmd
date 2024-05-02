@@ -1,5 +1,6 @@
 ---
 title: Tim Sippel, Ph.D.
+location: Portland, OR
 #author: Tim Sippel
 toc: true
 format: 
